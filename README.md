@@ -1,12 +1,12 @@
 # BlackBear
 web application for financial literacy<br/>
 Course 1: Behavorial Fianace - I think we shouldn't include this in our courses. <br/>
-  Loss Aversion: we hate losses more than we love winning. <br/>
+  <dd>Loss Aversion: we hate losses more than we love winning. <br/></dd>
 Course 2: Compensation<br/>
-    1) What are different forms of compensation?<br/>
-        A: Base pay, relocation/signing bonus, annual bonus, equity compensation, financial benefits, and perks.<br/>
-    2) What is equity?<br/>
-        A: Value of a share of ownership of the business. Company ownership is divided into shares, and those shares entitle owners to                various rights. <br/>
+    <dd>1) What are different forms of compensation?<br/></dd>
+        <dd>A: Base pay, relocation/signing bonus, annual bonus, equity compensation, financial benefits, and perks.<br/></dd>
+    <dd>2) What is equity?<br/></dd>
+        <dd>A: Value of a share of ownership of the business. Company ownership is divided into shares, and those shares entitle owners to                various rights. <br/></dd>
     3) How does holding shares of a private company differ from a public company?<br/>
         A: There is future financing, aka dilution. Your share of the company will decrease as the company issues more shares. <br/>
     4) What are two common forms of equity compensation?<br/>
