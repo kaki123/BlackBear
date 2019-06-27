@@ -30,48 +30,65 @@ Course 3: Saving & Budgeting<br/>
     Spend less than you make. <br/>
     Plug for product here? iRetire?
     1. What is the ideal savings rate?<br/> 
-      A: 15% is based on historical assumptions of length of time working, rate of return, wage inflation, and 80% retirement income            goal.
-    2. What are morgage payments made of?
-      A: Two componete: interest and principal.
-    3. What is an income statement?
-      A:  A financial statement that reports a company's financial performance over a specific accounting period. A personal income statement reviews a time period including income, expenses, and savings. 
-    4. What happens when you pay off a debt?
-    A: Paying off debt wipes a liability off your books, leaving the asset. This boosts your net worth, just like savings does. 
+      A: 15% is based on historical assumptions of length of time working, rate of return, wage inflation, and 80% retirement income            goal.<br/> 
+    2. What are morgage payments made of?<br/> 
+      A: Two componete: interest and principal.<br/> 
+    3. What is an income statement?<br/> 
+      A:  A financial statement that reports a company's financial performance over a specific accounting period. A personal income statement reviews a time period including income, expenses, and savings. <br/> 
+    4. What happens when you pay off a debt? <br/> 
+    A: Paying off debt wipes a liability off your books, leaving the asset. This boosts your net worth, just like savings does. <br/> 
     
 Course 4: Assets & Net Worth<br/>
-    1. What is liquidity?
-    A: How quickly can you get access to cash when you need it. 
-    Market liquidity refers to the extent a marketplace allows assets to be bought & sold at stable prices. 
-    Accounting liquidity measures the ease an individual or company can meet their financial obligations with the liquid assets             available to them. 
-    2. Why does liquidity matter? 
-    A: It is the only thing that matters when you need to pay for somthing (emergency fund) and it gives you power to take advantage of investment opportunities. 
-    3. How does liquidity relate with return?
-      A: Liquidity is usually inversely correlated with returns. But safety does not equal to liquiity. ex (Tesla stock is liquid, but volatile.) 
-    4. What % of Americans have $400  for emergencies?
-     A: US Federal Reserve reported in 2017 that 40% of Americans do not have sufficient savings to cover a $400 emergency expense.
-    5. How large should an emergency fund be?
-      A: Standard recommendation is at least 3 months of living expenses in cash or cash equivalents. National average is 3-6 months to    find a job of equal pay. 
-    6. What is an asset?
-      A: any resouce with economic value. Financial assets are investments in cash, bonds, stocks, etc. Real assets are investments in real estate, collectibles, commondities, etc. 
-    7. What are  the different types of assets?
-      A: Liquid vs Illiquid, Financial vs. Real , Appreciating vs. Depreciating, Tangible vs. Intangible, Debt owed to you. 
-    8. What are liabilities?
-      A: A liability is a financial obligation, typically debt. Common types: Mortgage , Auto Loan , Student Loan , Credit Cards, Tax Liability
-    9. What are different types of liability?
-        A: Short term vs. Long term, Secured vs. Unsecured, Tax Liability. 
-    10. What is credit score?
-    A: Lenders report to 3 major centralized credit agencies when you apply for debt, receive debt, and when you pay off debt. 
-    11. Why is it essential?
-    A: Building a good credit score is essential for qualifying for most loans. It can affect other services too, as it is used for identity verification. 
-    12. What are issues that affect your score?
-    A:  Issues that affect credit score: length of history, on time payment, percent of capacity utilized, new applications for debt, bankruptcy.
-    13. Should I pay off all my debt?
-    A: Depends because some debt is subsidized like student loans and mortgage and some are compounded like high interest debt in which you should try to pay off as soon as possible. 
-    14. What is your net worth?
-    A: Your assets minus liabilities. This inclues all your assets. 
-    15. What is a balance sheet?
-    A: A balance sheet is a financial statement that summarizes a companies assets, liabilities & shareholders’ equity. 
+    1. What is liquidity?<br/> 
+    A: How quickly can you get access to cash when you need it. <br/> 
+    Market liquidity refers to the extent a marketplace allows assets to be bought & sold at stable prices.
+    Accounting liquidity measures the ease an individual or company can meet their financial obligations with the liquid assets             available to them. <br/> 
+    2. Why does liquidity matter? <br/> 
+    A: It is the only thing that matters when you need to pay for somthing (emergency fund) and it gives you power to take advantage of investment opportunities. <br/> 
+    3. How does liquidity relate with return?<br/> 
+      A: Liquidity is usually inversely correlated with returns. But safety does not equal to liquiity. ex (Tesla stock is liquid, but volatile.) <br/> 
+    4. What % of Americans have $400  for emergencies?<br/> 
+     A: US Federal Reserve reported in 2017 that 40% of Americans do not have sufficient savings to cover a $400 emergency expense.<br/> 
+    5. How large should an emergency fund be?<br/> 
+      A: Standard recommendation is at least 3 months of living expenses in cash or cash equivalents. National average is 3-6 months to    find a job of equal pay. <br/> 
+    6. What is an asset?<br/> 
+      A: any resouce with economic value. Financial assets are investments in cash, bonds, stocks, etc. Real assets are investments in real estate, collectibles, commondities, etc. <br/> 
+    7. What are  the different types of assets?<br/> 
+      A: Liquid vs Illiquid, Financial vs. Real , Appreciating vs. Depreciating, Tangible vs. Intangible, Debt owed to you. <br/> 
+    8. What are liabilities?<br/> 
+      A: A liability is a financial obligation, typically debt. Common types: Mortgage , Auto Loan , Student Loan , Credit Cards, Tax Liability<br/> 
+    9. What are different types of liability?<br/> 
+        A: Short term vs. Long term, Secured vs. Unsecured, Tax Liability. <br/> 
+
+    10. Should I pay off all my debt?<br/> 
+    A: Depends because some debt is subsidized like student loans and mortgage and some are compounded like high interest debt in which you should try to pay off as soon as possible. <br/> 
+    11. What is your net worth?<br/> 
+    A: Your assets minus liabilities. This inclues all your assets. <br/> 
+    12. What is a balance sheet?<br/> 
+    A: A balance sheet is a financial statement that summarizes a companies assets, liabilities & shareholders’ equity.<br/>  
 Course 5: Debt<br/>
+    1. How much would you owe if your loan had an 8% annual nomial interest rate, you are on your 20th year? (A = P(1+(r/n)^n*t))
+     A: 4.66x the original amount!
+    2. Is there a distinction betwwen annual percentage rate(APR) and annual percentage yield?
+    A: APR = Periodic Rate X Number of Periods in a Year ; this is a simple interest rate
+       APY = (1 + Periodic Rate) ^ Number of Periods -1 ; this is a compund interest
+    3. If there is a 1% monthly rate, what would APR and APY be?
+      A: APR = 12% , APY = 12.68%
+    4. Why is it important to start saving earlier in your carrer?
+      A: In most retirement planning models, money saved between ages 25 - 35 produces more assets in retirement than all savings between 35 – 65! This is because of compounding. 
+    5. When making a loan, what is something important to note?
+     A: The compund interest rate.
+    6. What is credit score?<br/> 
+    A: Lenders report to 3 major centralized credit agencies when you apply for debt, receive debt, and when you pay off debt. <br/> 
+   7. Why is it essential?<br/> 
+    A: Building a good credit score is essential for qualifying for most loans. It can affect other services too, as it is used for identity verification. <br/> 
+    8. How do you get a credit score?
+    A: Most common methods are secured credit cards, student credit cards, store credit cards, student loans, auto loans. 
+    9. What are issues that affect your score?<br/> 
+    A:  Issues that affect credit score: length of history, on time payment, percent of capacity utilized, new applications for debt, bankruptcy. <br/>  
+     
+       
+      
 Course 6: Investing<br/>
 Course 7: Financial Goals<br/>
 Course 8: Real Estate<br/>
