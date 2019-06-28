@@ -88,8 +88,33 @@ Course 5: Debt<br/>
     A:  Issues that affect credit score: length of history, on time payment, percent of capacity utilized, new applications for debt, bankruptcy. <br/>  
      
        
-      
-Course 6: Investing<br/>
-Course 7: Financial Goals<br/>
-Course 8: Real Estate<br/>
+Course 6: Intro to Investing<br/>
+1.	What are different types of investments?
+a.	Stocks, bonds, commodities, and real estate
+2.	What are the returns on stocks based on?
+a.	Returns on stocks are based on capital appreciation and dividends. With that being said, stocks have the highest annualized return over long time periods, but also higher volatility. You can either gain/ lost the most. 
+3.	What are ways to categorize stocks?
+a.	Large cap vs, small cap, US vs developed markets vs emerging markets, and growth vs value. 
+4.	What is a bond?
+a.	A bond is a debt investment representing a portion of a loan. 
+5.	What are the returns of bonds based on?
+a.	 capital appreciation and interest income. Note the higher the credit quality is for a loan the lower the rate. 
+6.	What are some common ways to sub-divide bonds?
+a.	Government vs Corporate, Domestics vs International 
+7.	What is a commodity?
+a.	A commodity is a basic good used in commerce. There are two types: renewable (e.g. agriculture, lumber) and non-renewable (e.g. iron, oil, and gold). 
+8.	What are the returns on commodities based on?
+a.	Returns are based on appreciation only for commodities. 
+9.	What are returns on real estate based on? 
+a.	Returns are based on rental income and capital appreciation
+10.	Why diversify your portfolio? (meaning investing in different asset classes). 
+a.	You can reduce portfolio risk for a given expected return by combing different asset profile. Even if you were to include a higher risk asset but if it is uncorrelated with the other assets in your current portfolio, you can effectively drive down the overall risk of the portfolio. This is known as the only free lunch in the asset management. 
+11.	What is important to consider besides the absolute return of an asset class? 
+a.	Volatility also known as risk of the asset is an important factor to consider as well.  With higher volatility you may gain a larger return, but you are also exposed to the risk of losing more. 
+12.	Why does tax matter in investing?
+a.	Tax rates vary for interest dividends and capital gains. After-tax risk-adjusted return is critical for taxable accounts, while before-tax risk-adjusted return is crucial for tax-deferred accounts (401k, IRA). 
+
+Course 7: How to invest<br/>
+Course 8: Financial Goals<br/>
+Course 9: Real Estate<br/>
 
