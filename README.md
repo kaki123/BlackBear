@@ -1,5 +1,94 @@
 # BlackBear
 web application for financial literacy<br/>
+official question 
+Course 6: Intro to Investing
+1.	What are the returns on stocks based on? (a)
+a.	capital appreciation and dividends. 
+b.	capital appreciation and interest income.
+c.	appreciation only
+d.	rental income and capital appreciation
+2.	What types of stocks have the highest annualized return over long time periods, but also higher volatility? (b)
+a.	bonds
+b.	Stocks
+c.	Commodities
+d.	Real estate
+3.	What are ways to categorize stocks? (a) 
+a.	Large cap vs, small cap, US vs developed markets vs emerging markets, and growth vs value. 
+b.	Government vs Corporate, Domestics vs International 
+c.	Residential vs commercial 
+d.	Renewable vs. Non-renewable
+4.	What is a bond? (a)
+a.	A bond is a debt investment representing a portion of a loan. 
+b.	A bond is a basic good used in commerce. 
+c.	A bond is the capital raised by a business or corporation through the issue and subscription of shares.
+d.	A bond is a property consisting of land or buildings.
+5.	What are the returns of bonds based on? (b)
+a.	capital appreciation and dividends. 
+b.	capital appreciation and interest income.
+c.	appreciation only
+d.	rental income and capital appreciation
+6.	What are the returns on commodities based on? (c)
+a.	capital appreciation and dividends. 
+b.	capital appreciation and interest income.
+c.	appreciation only
+d.	rental income and capital appreciation
+7.	What are returns on real estate based on? (d)
+a.	capital appreciation and dividends. 
+b.	capital appreciation and interest income.
+c.	appreciation only
+d.	rental income and capital appreciation
+8.	Why diversify your portfolio? (meaning investing in different asset classes). (a)
+a.	You can reduce portfolio risk for a given expected return by combing different asset profile. Even if you were to include a higher risk asset but if it is uncorrelated with the other assets in your current portfolio, you can effectively drive down the overall risk of the portfolio. This is known as the only free lunch in the asset management. 
+b.	You can increase the risk of your portfolio for a given expected return by combing different asset profile.
+c.	To combine correlated assets to decrease the risk of the overall portfolio. 
+d.	To increase volatility. 
+
+Course 8: Financial Goals
+
+1.	What is a financial plan? (a)
+a.	Comprehensive evaluation of current and future financial state
+b.	A portfolio of your stocks.
+c.	An income statements.
+d.	A balance sheet
+2.	What is not included in a financial plan? (d)
+a.	net worth and cash flow analysis, 
+b.	retirement strategy and risks/insurance, 
+c.	investment strategy, tax strategy, and estate plan, 
+d.	guarantees of an exact return on active investments. 
+3.	What is not a key factor when setting financial goals? (d)
+a.	Time frame
+b.	returns
+c.	volatility
+d.	save all money you have
+4.	What is not true of setting a simple goal of having an emergency fund? (c)
+a.	Priority in liquidity
+b.	Priority in safety
+c.	Long-term goal
+d.	Short-term goal
+5.	How would you plan for an important financial goal like retirement? (a)
+a.	a long-term asset allocation plan with a diversified portfolio. 
+b.	a short-term asset allocation plan with a diversified portfolio. 
+c.	a long-term allocation allocation plan with a narrow portfolio. 
+d.	Investing in one asset class. 
+6.	What is not a problem interrelated financial goal to retirement? (d)
+a.	projecting income for 40+ years
+b.	 replacing income for 30+ years
+c.	 tax efficiency
+d.	planning for only you.
+7.	Which answer below is not why life insurance exist? (d)
+a.	There are costs associated with death 
+b.	people with dependents need a way to provide for them after death. 
+c.	tax benefits:  the owner is not taxed on the potential benefit size, and the beneficiary is not taxed on receipt. 
+d.	A long-term profitable investment
+8.	What is a term life insurance is an insurance _________. (a)
+a.	where you pay monthly for a time period to ensure payment to a beneficiary if you die
+b.	that provides a death benefit no matter how old you are. AKA “permanent” life insurance. 
+c.	With greater flexibility to change death benefit & cash value
+d.	That has fixed premiums and death benefit can increase based on rate of return of the cash value. 
+
+
+
+---------------Draft-----------------------
 Course 1: Behavorial Fianace - I think we shouldn't include this in our courses. <br/>
   Loss Aversion: we hate losses more than we love winning. <br/>
 Course 2: Compensation<br/>
@@ -154,4 +243,6 @@ a.	There are costs associated with death and people with dependents need a way t
 a.	There is term, whole, universe, variable, life insurance. For term life insurance, you pay monthly for a time period to ensure payment to a beneficiary if you die. 
 
 Course 9: Real Estate<br/>
+
+------Official Questions-------
 
