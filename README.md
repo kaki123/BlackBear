@@ -137,5 +137,21 @@ a.	Keep saving, look for low fees, stay diversified, and minimize taxes in your 
 
 
 Course 8: Financial Goals<br/>
+
+1.	What is a financial plan?
+a.	Comprehensive evaluation of current and future financial state. It accounts for cash flow, assets, and withdrawals. Key components include: net worth, cash flow analysis, retirement strategy, risks/insurance, investment strategy, tax strategy, and estate plan. 
+2.	What are financial advisors?
+a.	Financial planners who help people avoid behavioral error in investments. 
+3.	What is the key factor when setting financial goals?
+a.	Time frame matters. Different goals call for action for different time frames. For example, saving for retirement is something to consider in a long-term time frame. 
+4.	How do you project savings going forward?
+a.	For diversified portfolio, use historical rates of return, adjusted for inflation. A simple methid is to assume annual rate, divide by 12 months, and build out projection month by month. 
+5.	How would you plan for an important financial goal like retirement?
+a.	There are four interrelated problems which is projecting income for 40+ years, replacing income for 30+ years, tax efficiency, and planning for multiple people. You need a long-term asset allocation plan with a diversified portfolio. 
+6.	Why does life insurance exist?
+a.	There are costs associated with death and people with dependents need a way to provide for them after death. There are several tax benefits. The owner is not taxes on the potential benefit size, and the beneficiary is not taxes on receipt. 
+7.	What types of life insurance are there?
+a.	There is term, whole, universe, variable, life insurance. For term life insurance, you pay monthly for a time period to ensure payment to a beneficiary if you die. 
+
 Course 9: Real Estate<br/>
 
