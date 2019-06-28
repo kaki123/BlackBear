@@ -115,6 +115,27 @@ a.	Volatility also known as risk of the asset is an important factor to consider
 a.	Tax rates vary for interest dividends and capital gains. After-tax risk-adjusted return is critical for taxable accounts, while before-tax risk-adjusted return is crucial for tax-deferred accounts (401k, IRA). 
 
 Course 7: How to invest<br/>
+1.	How can you invest?
+a.	Through brokerage accounts. In US, brokerages are financial firms that offer security accounts, regulated by the SEC & FINRA. 
+2.	How does a brokerage account differ from a bank account?
+a.	Unlike a bank account, you can lose money. A brokerage account are institutions where you can deposit money and purchase (and sell) securities. 
+3.	How do you measure investment return?
+a.	Alpha is the excess return with the market rate of return as benchmark. Beta is the measure of volatility compared to its market benchmark overtime.  The key is to achieve the best risk-adjusted return, net of fees and taxes. 
+4.	What are the different types of investment approaches?
+a.	There are two major methods: fundamental analysis and technical analysis. Fundamental analysis attempts to choose securities based on the business performance and valuation. Technical analysis attempts to choose securities based on price patterns. 
+5.	What are index funds?
+a.	An index fund is an investment fund that attempts to replicate the performance of a given index of stocks or some other investment type. This can include bonds or even a narrow subset of a financial market, say, small-cap biotech companies. 
+6.	Are index funds popular?
+a.	Index funds hold more than $4 trillion in assets and represent the majority of new equity fund inflows. 
+7.	Why is it important to rebalance your portfolio?
+a.	Over long time periods, asset allocation will drift due to varied performance. 
+8.	What are some ways to rebalance your portfolio?
+a.	There are tax efficient methods: intelligent dividend reinvestment, deposits, and withdrawals. Trigger-based rebalancing occurs only after a certain % drift from the ideal allocation. 
+9.	What are the four keys to good investing?
+a.	Keep saving, look for low fees, stay diversified, and minimize taxes in your portfolio. 
+
+
+
 Course 8: Financial Goals<br/>
 Course 9: Real Estate<br/>
 
